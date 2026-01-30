@@ -3,6 +3,7 @@
   "dependencies": {
     "node-red": "latest",
     "node-red-dashboard": "latest",
-    "node-red-contrib-firebase-realtime": "latest"
+    "node-red-contrib-firebase-realtime": "latest
   }
 }
+
